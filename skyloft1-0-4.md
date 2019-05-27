@@ -9,11 +9,9 @@ Hello, Skyloftians! This update brings a lot more to the core game, bringing us 
 
   - **PRICE**: S$100,000 (One copy is granted to each Alpha tester for free)
 
-  - **FEATURES**:
-
-  Aerial DLC contains a whole new singleplayer experience. Journey the newly found Ream Two, unlocking a brand new storyline and, most importantly, new quests. More information to be revealed soon!
+  - **FEATURES**: Aerial DLC contains a whole new singleplayer experience. Journey the newly found Ream Two, unlocking a brand new storyline and, most importantly, new quests. More information to be revealed soon!
   
-  Notice: Items on this may not be included in the DLC pack; it is only included if mentioned.
+  Notice: Items on this ist may not be included in the DLC pack; it is only included if mentioned.
   
 - FACTIONS: New to the Aerial DLC, create your own faction! Players with an Aerial DLC pack will be able to create and join other users' factions. Create your faction, build its base, and raid other factions' bases to gain Faction XP!
 
@@ -25,6 +23,8 @@ Hello, Skyloftians! This update brings a lot more to the core game, bringing us 
 
 - NEW LOCATIONS:
   - Check out the all-new solar system inside Realm One, *Frosted Skies*! This solar system contains a number of interesting frost and ice planets that don't count towards the main storyline. Complete all five of them for a special bonus...
+  
+- /NICK: Change your in-game username using /nick <nickname>! This will not permanently change your username, it will just rename it until you use /unnick.
 
 - MULTIPLE ACCOUNTS: Create new users, under the same account! You can even link existing accounts to a single account with multiple users! You can have up to ten users under one account! Each user is compltely seperate from the other
 
