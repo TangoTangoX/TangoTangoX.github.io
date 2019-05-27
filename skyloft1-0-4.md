@@ -21,8 +21,7 @@ Hello, Skyloftians! This update brings a lot more to the core game, bringing us 
   
 - PARTIES: Invite your friends to your Skyloft Party! You will be able to do quests together, as a group, and you each get XP for it!
 
-- NEW LOCATIONS:
-  - Check out the all-new solar system inside Realm One, *Frosted Skies*! This solar system contains a number of interesting frost and ice planets that don't count towards the main storyline. Complete all five of them for a special bonus...
+- NEW LOCATIONS: Check out the all-new solar system inside Realm One, *Frosted Skies*! This solar system contains a number of interesting frost and ice planets that don't count towards the main storyline. Complete all five of them for a special bonus...
   
 - /NICK: Change your in-game username using /nick <nickname>! This will not permanently change your username, it will just rename it until you use /unnick.
 
