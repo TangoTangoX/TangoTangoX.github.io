@@ -5,7 +5,7 @@ Hello, Skyloftians! This update brings a lot more to the core game, bringing us 
 
 **Update 1.0.4**
 
-- AERIAL DLC!! This EXCLUSIVE DLC pack will launch June 3rd, 2019. More information listed below!
+- AERIAL DLC!! This EXCLUSIVE DLC pack will launch May 30th, 2019. More information listed below!
 
   - **PRICE**: S$100,000 (One copy is granted to each Alpha tester for free)
 
