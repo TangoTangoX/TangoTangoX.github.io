@@ -20,5 +20,3 @@ Hello, Skyloftians! This update brings a lot more to the core game, and is the f
 - Something is happening in the Ruins. A fence has been put up, and construction is happening. You should investigate?
 
 - A new store opened in the *Bazaar*! This is the *Boost Shop*. What could it be?
-
-- 
