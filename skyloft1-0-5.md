@@ -15,9 +15,7 @@ Hello, Skyloftians! This update brings a lot more to the core game, and is the f
   
   - The **Riptide Sword** is unlocked after you beat the second Main Planet, which is based around water. After doing a *Spin Attack*, the sword will create a large whirlpool that will greatly damage the enemies.
   
-  - The **Forest Dweller's Blade** is an average wooden sword, yet complete with a unique moveset.
-  
-  - 
+  - The **Forest Dweller's Blade** is an average wooden sword, complete with a unique moveset.
   
 - Something is happening in the Ruins. A fence has been put up, and construction is happening. You should investigate?
 
